@@ -75,7 +75,7 @@ VSCode
 
 
 # 6. 주요 프로시저
-1. 데이터 수집 (크롤링)
+### 데이터 수집 (크롤링)
 
 ⛏ 프로시저 목록:
 
@@ -89,7 +89,7 @@ get_info(brand, month, driver, conn, cursor):
 hyundai_crawling(), kia_crawling(), kgm_crawling(), chevrolet_crawling():
 목적: 각 브랜드의 공식 FAQ 페이지에서 질문/답변 추출 → BRAND_FAQ 테이블에 저장
 
-2. 데이터 저장 (MySQL)
+### 데이터 저장 (MySQL)
 
 ⛏ 대상 테이블:
 
@@ -102,7 +102,7 @@ BRAND_FAQ: 브랜드별 FAQ (질문, 답변)
 INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으로 중복 방지
 커넥션 유지 및 커밋 (conn.commit())
 
-3. 데이터 시각화 및 조회 (메인 페이지)
+### 데이터 시각화 및 조회 (메인 페이지)
 
 ⛏ 프로시저 목록:
 
@@ -110,7 +110,7 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 판매량 기준 Bar Chart, Pie Chart 시각화
 선택 브랜드 FAQ 동시 출력
 
-5. Streamlit UI 흐름
+### Streamlit UI 흐름
 
 ⛏ 페이지 구성:
 
@@ -127,6 +127,6 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 # 8. 한 줄 회고
 
 노건우 데이터 시각화와 웹 대시보드 구축을 통해 정보의 가치를 쉽게 전달할 수 있었다. 함께할 수 있어서 재미있었습니다.
-
+박진우 한 줄의 코드에 의지가 실리고, 한 번의 실행에 팀의 노력이 쌓였다.
 이세진 초기 데이터 구조를 제대로 파악하지 않아 질문 개수를 놓친 경험을 통해, 
 코드를 짜기 전엔 항상 데이터 구조부터 철저히 확인하자는 교훈을 얻었습니다. 좋은 팀원들을 만나 재미있었습니다
