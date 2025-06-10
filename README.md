@@ -122,10 +122,10 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 
 # 7. 수행결과(테스트/시연 페이지)
 
-## 메인 페이지 (📊 메인 페이지)
+### 📊 메인 페이지
 ![image](https://github.com/user-attachments/assets/6b5e8722-ffe4-4302-8915-9872d299aa77)
 
-## 크롤링 페이지 (🕸️ 크롤링 페이지)
+### 🕸️ 크롤링 페이지
 ![image](https://github.com/user-attachments/assets/b1e7af2b-a79f-4826-a93c-8338d1725c52)
 
  
