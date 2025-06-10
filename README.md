@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e2124979-2b9c-4e62-bc6c-47051ff6cb6f)# SKN15-1st-5TEAM
+# SKN15-1st-5TEAM
 
 # 1. 팀 소개
 
