@@ -7,6 +7,7 @@
 노건우 @asdg441  
 박진우 @pjw876    
 이세진 @isjini     데이터 검증, 화면구성
+
 임경원 @KYUNGWON-99     
 홍민식 @minnnsik
 
