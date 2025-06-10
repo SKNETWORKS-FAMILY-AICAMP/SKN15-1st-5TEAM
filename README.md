@@ -3,14 +3,19 @@
 # 1. 팀 소개
 
 파이썬쉽조😎
+![image](https://github.com/user-attachments/assets/e8f7c02e-a09e-4f3d-9441-16038eba38ce)
 
 노건우 @asdg441  스트림릿 페이지 구현
+![image](https://github.com/user-attachments/assets/9a224d1c-3b84-41ff-9262-d85a50abe619)
 
 박진우 @pjw876  자동차판매데이터 크롤링, 데이터베이스 설계, 자료취합 
+![image](https://github.com/user-attachments/assets/88dd5d62-b7ca-4c66-af56-e6f0adef9241)
 
 이세진 @isjini  데이터 검증, 화면구성
+![image](https://github.com/user-attachments/assets/250df93e-9de4-4976-a161-c59493a0c12d)
 
 임경원 @KYUNGWON-99 FAQ 크롤링
+![image](https://github.com/user-attachments/assets/5e26de12-bf92-4e41-ac3a-f87e3ada8662)
 
 홍민식 @minnnsik FAQ 크롤링
 
