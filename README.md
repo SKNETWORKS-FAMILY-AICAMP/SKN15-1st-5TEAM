@@ -3,23 +3,25 @@
 # 1. 팀 소개
 
 파이썬쉽조😎
-![image](https://github.com/user-attachments/assets/8063268d-770f-482b-94da-5acf9b400a0b)
-
-
 
 노건우 @asdg441  스트림릿 페이지 구현
-![image](https://github.com/user-attachments/assets/9a224d1c-3b84-41ff-9262-d85a50abe619)
+![image](https://github.com/user-attachments/assets/8fdc6fe4-9fe5-4a02-989d-2a4b1569f40f)
+
 
 박진우 @pjw876  자동차판매데이터 크롤링, 데이터베이스 설계, 자료취합 
-![image](https://github.com/user-attachments/assets/88dd5d62-b7ca-4c66-af56-e6f0adef9241)
+![image](https://github.com/user-attachments/assets/20af072c-df48-4a08-be43-15f512c30b2e)
+
 
 이세진 @isjini  데이터 검증, 화면구성
-![image](https://github.com/user-attachments/assets/250df93e-9de4-4976-a161-c59493a0c12d)
+![image](https://github.com/user-attachments/assets/a7459fd3-5eac-41ef-bf38-b479b273ddfa)
+
 
 임경원 @KYUNGWON-99 FAQ 크롤링
-![image](https://github.com/user-attachments/assets/5e26de12-bf92-4e41-ac3a-f87e3ada8662)
+![image](https://github.com/user-attachments/assets/3b24e266-0b3f-497e-bb22-c5c4d2fc3b44)
+
 
 홍민식 @minnnsik FAQ 크롤링
+![image](https://github.com/user-attachments/assets/8beff8a5-42ec-4270-a7ab-a7a48b5de1ae)
 
 
 # 2. 프로젝트 개요
