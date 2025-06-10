@@ -2,7 +2,7 @@
 
 # 1. 팀 소개
 
-## 파이썬쉽조😎
+### 파이썬쉽조😎
 
 ![image](https://github.com/user-attachments/assets/f95ddcc3-dfa5-4a9d-b67b-755e12576056)
 노건우 @asdg441  스트림릿 페이지 구현
@@ -27,9 +27,9 @@
 
 # 2. 프로젝트 개요
 
-## 🚗자동차 판매 데이터 분석 🚗
+### 🚗자동차 판매 데이터 분석 🚗
 
-## 🎯 프로젝트 목표
+### 🎯 프로젝트 목표
 ### 1. 자동차 판매 데이터를 통합 수집 및 시각화
 
 국내외 주요 자동차 브랜드의 월별 판매 데이터를 웹 크롤링을 통해 자동 수집합니다.
@@ -76,7 +76,7 @@ Visualization: Altair (막대 차트, 파이 차트 등)
 
 
 # 6. 주요 프로시저
-### 데이터 수집 (크롤링)
+### 1. 데이터 수집 (크롤링)
 
 ⛏ 프로시저 목록:
 
@@ -96,7 +96,7 @@ hyundai_crawling(), kia_crawling(), kgm_crawling(), chevrolet_crawling():
 
 목적: 각 브랜드의 공식 FAQ 페이지에서 질문/답변 추출 → BRAND_FAQ 테이블에 저장
 
-### 데이터 저장 (MySQL)
+### 2. 데이터 저장 (MySQL)
 
 ⛏ 대상 테이블:
 
@@ -114,7 +114,7 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 
 커넥션 유지 및 커밋 (conn.commit())
 
-### 데이터 시각화 및 조회 (메인 페이지)
+### 3. 데이터 시각화 및 조회 (메인 페이지)
 
 ⛏ 프로시저 목록:
 
@@ -122,7 +122,7 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 판매량 기준 Bar Chart, Pie Chart 시각화
 선택 브랜드 FAQ 동시 출력
 
-### Streamlit UI 흐름
+### 4. Streamlit UI 흐름
 
 ⛏ 페이지 구성:
 
