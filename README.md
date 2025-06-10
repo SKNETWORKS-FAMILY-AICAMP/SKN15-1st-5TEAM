@@ -3,7 +3,8 @@
 # 1. 팀 소개
 
 파이썬쉽조😎
-![image](https://github.com/user-attachments/assets/ea8a073a-e462-4d83-b723-67ac42a31122)
+![image](https://github.com/user-attachments/assets/8063268d-770f-482b-94da-5acf9b400a0b)
+
 
 
 노건우 @asdg441  스트림릿 페이지 구현
