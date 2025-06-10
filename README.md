@@ -123,9 +123,16 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 # 7. 수행결과(테스트/시연 페이지)
 
 ### 📊 메인 페이지
+필터링 - 전체
 ![image](https://github.com/user-attachments/assets/09a1392d-aa36-428a-8c28-3851278132da)
+
+필터링 - 국산
 ![image](https://github.com/user-attachments/assets/120d3eb1-b357-44a1-b2ea-d08fda96e2f3)
+
+필터링 - 브랜드
 ![image](https://github.com/user-attachments/assets/247c490d-c381-4061-8b54-0dfe1ca23940)
+
+필터링 브랜드 선택 시 - FAQ
 ![image](https://github.com/user-attachments/assets/e2e58a7b-2bdd-43b5-bf06-2649496aec8e)
 
 
