@@ -1,4 +1,4 @@
-# SKN15-1st-5TEAM
+![image](https://github.com/user-attachments/assets/e2124979-2b9c-4e62-bc6c-47051ff6cb6f)# SKN15-1st-5TEAM
 
 # 1. 팀 소개
 
@@ -123,12 +123,16 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 # 7. 수행결과(테스트/시연 페이지)
 
 ### 📊 메인 페이지
-![image](https://github.com/user-attachments/assets/6b5e8722-ffe4-4302-8915-9872d299aa77)
+![image](https://github.com/user-attachments/assets/09a1392d-aa36-428a-8c28-3851278132da)
+![image](https://github.com/user-attachments/assets/120d3eb1-b357-44a1-b2ea-d08fda96e2f3)
+![image](https://github.com/user-attachments/assets/247c490d-c381-4061-8b54-0dfe1ca23940)
+![image](https://github.com/user-attachments/assets/e2e58a7b-2bdd-43b5-bf06-2649496aec8e)
+
 
 ### 🕸️ 크롤링 페이지
-![image](https://github.com/user-attachments/assets/b1e7af2b-a79f-4826-a93c-8338d1725c52)
+![image](https://github.com/user-attachments/assets/a70b695d-338a-48ae-80d5-ff81e1dfa8e7)
 
- 
+
 
 # 8. 한 줄 회고
 
