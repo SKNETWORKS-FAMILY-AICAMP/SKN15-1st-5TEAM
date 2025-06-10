@@ -76,7 +76,9 @@ VSCode
 
 # 6. 주요 프로시저
 1. 데이터 수집 (크롤링)
+
 ⛏ 프로시저 목록:
+
 crawl_all_data():
 목적: CAR_MODEL, CAR_SALES, BRAND 테이블에 국내외 브랜드의 월별 판매 데이터를 저장
 흐름: 브랜드 → 연도 → 월별 반복 → get_info() 호출
@@ -88,7 +90,9 @@ hyundai_crawling(), kia_crawling(), kgm_crawling(), chevrolet_crawling():
 목적: 각 브랜드의 공식 FAQ 페이지에서 질문/답변 추출 → BRAND_FAQ 테이블에 저장
 
 2. 데이터 저장 (MySQL)
+
 ⛏ 대상 테이블:
+
 BRAND: 브랜드 정보 (ID, 이름, 국산/외제 구분)
 CAR_MODEL: 차량 모델 정보 (모델 ID, 브랜드 ID, 모델 이름)
 CAR_SALES: 연도별 모델 판매량 및 점유율
@@ -99,13 +103,17 @@ INSERT ... ON DUPLICATE KEY UPDATE 또는 예외 무시 방식 (try-except)으�
 커넥션 유지 및 커밋 (conn.commit())
 
 3. 데이터 시각화 및 조회 (메인 페이지)
+
 ⛏ 프로시저 목록:
+
 필터링 (연도, 월, 브랜드, 국산/외제 구분)
 판매량 기준 Bar Chart, Pie Chart 시각화
 선택 브랜드 FAQ 동시 출력
 
-4. Streamlit UI 흐름
+5. Streamlit UI 흐름
+
 ⛏ 페이지 구성:
+
 사이드바: 필터/페이지 전환
 메인 페이지 (📊 메인 페이지)
 필터 선택 → 판매 데이터 시각화 → 브랜드 FAQ 출력
