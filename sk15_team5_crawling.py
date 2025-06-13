@@ -223,7 +223,7 @@ def kia_crawling():
     print(faq_dict)
     driver.quit()
 
-    conn = pymysql.connect(host= '192.168.0.22', user= 'play', passwd='123', database='sk15_5team', port= 3306)
+    conn = pymysql.connect(host= '', user= '', passwd='', database='sk15_5team', port= 3306)
     cur = conn.cursor()
     sql = "INSERT INTO BRAND_FAQ (BRAND_ID, QUESTION, ANSWER) VALUES (%s, %s, %s)"
 
