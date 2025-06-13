@@ -29,10 +29,10 @@ page = st.sidebar.radio("이동할 페이지를 선택하세요", ["📊 메인 
 
 
 conn = pymysql.connect(
-    host='192.168.0.22',
-    user='team_5',
-    password='123',
-    database='sk15_5team',
+    host='',
+    user='',
+    password='',
+    database='',
     port=3306,
     charset='utf8'
 )
